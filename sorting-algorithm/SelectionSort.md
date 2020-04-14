@@ -24,4 +24,3 @@ private void swap(int[] arr, int i, int j) {
     arr[j] = tmp;
 }
 ```
-
